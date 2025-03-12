@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <body>
+        <fieldset><legend>PAGINA INICIAL</legend><br>
+        <p id="bem-vindo">Bem Vindo</p>
+    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Academico</title>
+<table> border="3px"
+    <th>Disciplina</th>
+    <th>Professor</th>
+    <tr>
+        <td>Matematica</td>
+        <td>Professor Tiao</td>
+        <tr></tr>
+    </tr>
+</table>
+
+</head>
+<body>

@@ -1,0 +1,30 @@
+*{
+    /* Código abaixo para colocar margem em todo o projeto
+    margin: 3px 4px 3px 3px;
+    margin: 4px;*/
+
+    margin: 4px 3px 4px;
+
+
+
+}
+body {
+
+    background-color: #10a5a5;
+    }
+    #banner {
+    
+        width: default;
+        height: 400px;
+        margin-bottom: 30px;
+        border-radius: default;
+    
+    }
+    
+    h1 {
+    
+        background-color: rgb(2, 39, 39);
+        text-align: center;
+        color: #e0ffff;
+        width: 100%;
+    }
