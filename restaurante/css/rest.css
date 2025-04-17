@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Estilos Gerais */
+body {
+    font-family: outfit, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #474747;
+    color: #000;
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #660c0cf6;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3rem;
+
+}
+
+
+
+
+/* Seções */
+section {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+}
+
+h2,
+h3 {
+    color: #660c0cf6;
+}
+
+h2 {
+    border-bottom: 2px solid #660c0cf6;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 2rem;
+}
+
+h3 {
+    margin-top: 20px;
+    font-size: 1.5rem
+}
+
+/* Listas de Cardápios */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 1.5rem;
+    padding: 1.5rem;
+
+
+    border-radius: 5px;
+
+}
+
+/* Rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+/* Botão (caso precise adicionar futuramente) */
+button {
+    background-color: #660c0cf6;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 2rem;
+}
+
+button:hover {
+    background-color: #660c0cf6;
+}
+
+img {
+    border-radius: 5px;
+    margin: 5px;
+    padding: 1rem;
+}
+
+div {
+    display: inline-block;
+    text-align: center;
+    padding: 2rem;
+    margin: 1.5rem;
+    background-color: #660c0cf6;
+    border-radius: 5%;
+    color: #f8f8f8;
+
+
+}
+
+fieldset {
+    border-color: #660c0cf6;
+    border-style: double;
+    padding: 1rem;
+    margin: 1rem;
+}
